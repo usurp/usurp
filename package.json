@@ -1,0 +1,17 @@
+{
+  "name": "usurp",
+  "preferGlobal": true,
+  "version": "0.0.0",
+  "description": "Node.js build tool",
+  "bin": {
+  	"usurp": "./bin/usurp"
+  },
+  "repository": "",
+  "author": "Usurp <usurpjs@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+  	"lodash": "",
+  	"shelljs": "~0.0.6",
+  	"commander": "~1.0.4"
+  }
+}
